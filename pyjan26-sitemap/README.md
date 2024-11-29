@@ -13,8 +13,14 @@ pip install pyjan26-sitemap
 2. Add to your settings.py
 
 ```python
+
+PLUGIN_MODULES = [
+    'pyjan26-sitemap.sitemap',
+     ...
+]
+
 SITE_NAME = 'https://example.com'
-SITEMAPE_CONFIG = [
+SITEMAP_CONFIG = [
 	{'collection': 'articles', 'changefreq': 'daily', 'priority': 1.0}
 ] 
 ```
