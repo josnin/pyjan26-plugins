@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pyjan26-repeat",
-    version="0.3.0",
+    version="0.4.0",
     setup_requires=['setuptools>=38.6.0', 'wheel'],
     python_requires='>=3.10',
     description="A pyjan26 plugin to generate repeated pages based on a collection's data",
