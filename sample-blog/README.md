@@ -26,10 +26,11 @@ python -m http.server 8080 --directory public/
 2. Add frontmatter to the file.
 ```yaml
 ---
-title: "My new blog post"
-date: "2024-12-01"
-tags: ["example"]
-layout: base.html
+title: "My New blog Post"
+description: "Adding new blog posts"
+image: "/assets/img/new-blog-img.png"
+date: 2024-11-24
+tags: ["Javascript"]
 ---
 your post content goes here.
 
