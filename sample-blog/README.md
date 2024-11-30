@@ -33,6 +33,7 @@ date: 2024-11-24
 tags: ["Javascript"]
 ---
 your post content goes here.
+```
 
 3. Rebuild the site
 ```python
