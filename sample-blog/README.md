@@ -2,6 +2,9 @@
 
 A simple example blog site built using PyJan26
 
+![image](https://github.com/user-attachments/assets/080a22ea-11e4-4ba4-985e-5a3092902826)
+
+
 ## Setup
 
 1. Install requirements
