@@ -2,9 +2,6 @@
 
 A simple example blog site built using PyJan26
 
-![image](https://github.com/user-attachments/assets/080a22ea-11e4-4ba4-985e-5a3092902826)
-
-
 ## Setup
 
 1. Install requirements
@@ -29,14 +26,12 @@ python -m http.server 8080 --directory public/
 2. Add frontmatter to the file.
 ```yaml
 ---
-title: "My New blog Post"
-description: "Adding new blog posts"
-image: "/assets/img/new-blog-img.png"
-date: 2024-11-24
-tags: ["Javascript"]
+title: "My new blog post"
+date: "2024-12-01"
+tags: ["example"]
+layout: base.html
 ---
 your post content goes here.
-```
 
 3. Rebuild the site
 ```python

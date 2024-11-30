@@ -5,6 +5,8 @@ from markdown.extensions.codehilite import CodeHiliteExtension
 # Debugger
 DEBUG = False
 
+BASE_URL = 'https://github.com/josnin/pyjan26-plugins'
+
 # Input directory / file
 TEMPLATE_DIR = '_templates'
 CONTENT_DIR = '_content'

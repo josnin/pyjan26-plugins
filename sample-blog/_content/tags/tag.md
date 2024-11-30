@@ -11,7 +11,7 @@ title: mytitle
 <div class="pst-ctnr">
   {% for post in collections.blogs | filter_tag(page_items) %}
     <div class="pst-ctnr__post">
-      <h2 class="pst-ctnr__post__header"><a href="/posts/{{ post.name }}/">{{ post.name }}</a></h2>
+      <h2 class="pst-ctnr__post__header"><a href="{{settings.BASE_URL}}/posts/{{ post.name }}/">{{ post.name }}</a></h2>
       <p class="pst-ctnr__post__desc">{{ post.description }}</p>
     </div>
   {% endfor %}
@@ -19,4 +19,4 @@ title: mytitle
 
 
 
-<p>See <a href="/tags/">all tags</a>.</p>
+<p>See <a href="{{settings.BASE_URL}}/tags/">all tags</a>.</p>
