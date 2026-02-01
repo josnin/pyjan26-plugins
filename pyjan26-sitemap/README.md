@@ -1,3 +1,5 @@
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/pyjan26-sitemap?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pyjan26-sitemap)
+
 # Sitemap
 
 This plugin generates a dynamic sitemap for projects built w Pyjan26.
