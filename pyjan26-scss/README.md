@@ -1,3 +1,5 @@
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/pyjan26-scss?period=total&units=INTERNATIONAL_SYSTEM&left_color=GRAY&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pyjan26-scss)
+
 # SCSS to CSS
 
 A plugin for compiling SCSS files into CSS during the build process in Pyjan26
