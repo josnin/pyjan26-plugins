@@ -1,3 +1,5 @@
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/pyjan26-repeat?period=total&units=INTERNATIONAL_SYSTEM&left_color=GRAY&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pyjan26-repeat)
+
 # Repeat Page
 
 A Pyjan26 plugin for generating repeated pages from collection data
